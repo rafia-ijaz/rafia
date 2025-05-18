@@ -1,16 +1,27 @@
 # Hi there 👋
-🏢 I'm currently working at Arbisoft
 
-⚙️ I use daily: Typescript, GitHub, Bamboo, Jira
+I'm a QA Engineer, SDET, Scrum Master, and Product Manager with 7+ years of experience delivering high-quality, scalable, and bug-free products across SaaS, HRMS, EdTech, Healthcare (HMS), and Telecom domains.
 
-🔭 Working on: Kayak Project
+I specialize in:
 
-💅 Expertise: Automation tools, Quality Assurance, Continous Integration, Communication
+✅ Manual & Automation Testing (Playwright, Appium)
 
-🌱 Learning all about Automation Tools | QA Best Practices | Cloud Computing
+✅ API Testing (Postman), Webhooks, AWS-based Microservices
 
-💬 Ping me about QA, Automation, RestAssured, Continous Integration & anything that has positive impact
+✅ Performance Testing (JMeter), PostgreSQL DB Testing (pgAdmin)
+
+✅ Cross-browser/platform testing (BrowserStack, LambdaTest)
+
+✅ UAT, RCA, RTM, Persona-Based & Shift-Left Testing
+
+✅ CI/CD Pipelines (Docker, Jenkins), Basic Security Testing
+
+✅ AI-Powered Testing using ChatGPT, Katalon Studio, & custom ML flows
+
+I lead test strategy, manage test cases (Testmo), drive agile sprints, and align QA efforts with business goals using the RRM model. I'm currently working with Readyhubb where I contribute as an SDET, QA Manager, Scrum Master, and Product Manager, ensuring seamless product delivery and AI-based innovation.
+
+💡 Whether you're launching a platform or scaling your QA process — I bring a balance of deep testing expertise, automation, team leadership, and product focus.
+
+Let’s connect!
 
 📫 Reach me: rafiarana23@gmail.com
-
-⚡️ A delightful tidbit about me is my dual passion: I'm an avid traveler and an enthusiastic capturer of moments through my camera lens.
